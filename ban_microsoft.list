@@ -1,0 +1,38 @@
+# ===============================
+# Microsoft Telemetry & Tracking
+# ===============================
+
+# —— 核心遥测 ——
+DOMAIN,self.events.data.microsoft.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,vortex.data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,telecommand.telemetry.microsoft.com
+DOMAIN-SUFFIX,watson.telemetry.microsoft.com
+DOMAIN-SUFFIX,oca.telemetry.microsoft.com
+DOMAIN-SUFFIX,umwatson.microsoft.com
+DOMAIN-SUFFIX,cs1.wpc.v0cdn.net
+
+# —— Windows 行为数据 ——
+DOMAIN-SUFFIX,stats.microsoft.com
+DOMAIN-SUFFIX,activity.windows.com
+DOMAIN-SUFFIX,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,df.telemetry.microsoft.com
+DOMAIN-SUFFIX,sqm.telemetry.microsoft.com
+DOMAIN-SUFFIX,wer.microsoft.com
+DOMAIN-SUFFIX,feedback.microsoft.com
+
+# —— Edge / Bing 广告与画像 ——
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,edge.microsoft.com
+
+# —— Office & Copilot 追踪 ——
+DOMAIN-SUFFIX,telemetry.office.com
+DOMAIN-SUFFIX,telemetry.office365.com
+DOMAIN-SUFFIX,watson.office.com
+DOMAIN-SUFFIX,officeclient.microsoft.com
+DOMAIN-SUFFIX,clientconfig.office.net
+DOMAIN-SUFFIX,config.office.com
+DOMAIN-SUFFIX,officeapps.live.com
