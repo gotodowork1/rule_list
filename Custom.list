@@ -1,0 +1,32 @@
+; # 360摄像头
+DIRECT,[]SRC-IP-CIDR,192.168.100.223/32
+DIRECT,[]SRC-IP-CIDR,192.168.100.192/32
+DIRECT,[]SRC-IP-CIDR,192.168.100.109/32
+DIRECT,[]SRC-IP-CIDR,192.168.100.188/32
+; SRC-IP-CIDR,192.168.100.240/32,DOMAIN-SUFFIX,sealsuite.bytedance.com,REJECT
+🚀 节点选择,[]DOMAIN-KEYWORD,huggingface
+; Futu / moomoo
+🇸🇬 新加坡节点,[]DOMAIN-KEYWORD,moomoo
+🇸🇬 新加坡节点,[]DOMAIN-KEYWORD,futunn
+🇸🇬 新加坡节点,[]DOMAIN-KEYWORD,futubull
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,moomoo.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,futunn.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,futuhk.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,futuholdings.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,futu5.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,futuie.com
+🇸🇬 新加坡节点,[]DOMAIN-SUFFIX,fututrustee.com
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,anthropic
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,claude
+🚀 节点选择,[]DOMAIN-KEYWORD,parsec
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,yahoo
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,611.icu
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,611
+🇺🇲 美国节点,[]DOMAIN-KEYWORD,996.icu
+🇺🇲 美国节点,[]DOMAIN,cdn.usefathom.com
+🇺🇲 美国节点,[]DOMAIN-SUFFIX,anthropic.com
+🇺🇲 美国节点,[]DOMAIN-SUFFIX,claude.ai
+🇺🇲 美国节点,[]DOMAIN-SUFFIX,mokexapp
+🚀 节点选择,[]DOMAIN-SUFFIX,yfsp.tv
+🚀 节点选择,[]DOMAIN-SUFFIX,vip
+🚀 节点选择,[]DOMAIN-SUFFIX,pipecdn.vip
