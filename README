@@ -15,3 +15,9 @@ http://localhost:25500/sub   openwrt本机docker地址
 https://sub.qichiyu.com/sub  VPS 域名反代 地址
 
 http://192.168.10.5:25500/sub 局域网其他设备地址
+
+配置更新说明：
+
+online.ini 引用的是 GitHub main 分支中的规则文件。本地修改 Custom.list、AI.list、Direct.list 或 ProxyLite.list 后，需要提交并推送到 GitHub，线上 subconverter 才会读取到新内容。
+
+更新后可重新请求一次订阅转换地址，并在 Clash/Mihomo 中检查策略组和规则是否正常生成。
